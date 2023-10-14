@@ -1,1 +1,1 @@
-# Image_Video_Compress_Decompress_Algorithm
+# Image Video Compress Decompress Algorithm
