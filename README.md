@@ -1,1 +1,1 @@
-# Image Video Compress Decompress Algorithm
+# Image and Video Compress/Decompress Algorithm
